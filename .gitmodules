@@ -7,3 +7,6 @@
 [submodule "npu-model"]
 	path = npu-model
 	url = git@github.com:ucb-ee194-tapeout/npu_model.git
+[submodule "pi0-quant"]
+	path = pi0-quant
+	url = git@github.com:chloe-wong/pi0-quant.git
